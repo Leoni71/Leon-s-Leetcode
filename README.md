@@ -4,6 +4,7 @@ This repo contains solutions to Leetcode problems I passed, in Python, Java, and
 
 ## Menu
 [LinkedList](https://github.com/Leoni71/Leon-s-Leetcode/blob/main/README.md#linkedlist)
+
 [Hash Map](https://github.com/Leoni71/Leon-s-Leetcode/blob/main/README.md#hash-map)
 
 ### LinkedList
