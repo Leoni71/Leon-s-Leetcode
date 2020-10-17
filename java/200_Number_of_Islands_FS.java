@@ -1,4 +1,4 @@
-#DFS
+//DFS
 class Solution {
     void dfs(char[][] grid, int r, int c) {
        int nr = grid.length;
@@ -36,7 +36,7 @@ class Solution {
     }
 }
 
-#BFS
+//BFS
 class Solution {
   public int numIslands(char[][] grid) {
     if (grid == null || grid.length == 0) {
