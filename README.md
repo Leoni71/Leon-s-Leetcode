@@ -3,7 +3,7 @@
 This repo contains solutions to Leetcode problems I passed, in Python, Java, and C++, respectively. Problems are categorized by common data structures and popular methods.
 
 ## Menu
-[Hash Map]()
+[Hash Map](https://github.com/Leoni71/Leon-s-Leetcode/blob/main/README.md#hash-map)
 
 ### Hash Map
 | # | Title | Solutions |       Basic idea      |
