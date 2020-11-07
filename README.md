@@ -1,6 +1,6 @@
 # Leon-s-Leetcode
 
-This repo contains solutions to Leetcode problems I passed, in Python, Java, and C++, respectively. Problems are categorized by common data structures and popular methods.
+This repo contains solutions to Leetcode problems I passed, in Python, Java, and C++, respectively. Problems are categorized by common data structures and classic methods.
 
 ## Menu
 [LinkedList](https://github.com/Leoni71/Leon-s-Leetcode/blob/main/README.md#linkedlist)
