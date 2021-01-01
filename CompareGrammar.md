@@ -3,4 +3,4 @@
 |Import Libraries| `import xxx` |  |`#include <iostream>` <br> `#include "xxx.h"`| |
 |Variable Declaration| - |`int a = 1;` | | |
 |Define Functions|`def function()`||||
-|Main Function|`if __name__ == '__main__'`||||
+|Main Function|`if __name__ == '__main__'`|`public class Main{` <br> `   public static void main(String[] args){`|||
