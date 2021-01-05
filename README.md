@@ -15,6 +15,16 @@ This repo contains solutions to Leetcode problems I passed, in Python, Java, and
 | # | Title | Solutions |       Basic idea      |
 |---| ----- | --------- | --------------------- |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](https://github.com/Leoni71/Leon-s-Leetcode/blob/main/python/2_Add_Two_Numbers.py) <br> [Java](https://github.com/Leoni71/Leon-s-Leetcode/blob/main/java/2_Add_Two_Numbers.java) <br> [C++](https://github.com/Leoni71/Leon-s-Leetcode/blob/main/C++/2_Add_Two_Numbers.cpp) | Dummy head, O(max(m,n))|
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python]() <br> [Java]() | |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python]() <br> [Java]() | |
+| 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [Python]() <br> [Java]() | |
+| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python]() <br> [Java]() | |
+| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python]() <br> [Java]() | |
+| 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Python]() <br> [Java]() | |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python]() <br> [Java]() | |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](https://github.com/Leoni71/Leon-s-Leetcode/blob/main/python/206_Reverse_Linked_List.py) <br> [Java](https://github.com/Leoni71/Leon-s-Leetcode/blob/main/java/206_Reverse_Linked_List.java) | |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python]() <br> [Java]() | |
+| 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Python]() <br> [Java]() | |
 
 ### Hash Map
 | # | Title | Solutions |       Basic idea      |
