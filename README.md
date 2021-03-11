@@ -9,7 +9,11 @@ This repo contains solutions to Leetcode problems I passed, in Python, Java, and
 
 [String](https://github.com/Leoni71/Leon-s-Leetcode/blob/main/README.md#string)
 
+[Heap](https://github.com/Leoni71/Leon-s-Leetcode/blob/main/README.md#heap)
+
 [Two Pointers](https://github.com/Leoni71/Leon-s-Leetcode/blob/main/README.md#two-pointers)
+
+[Sliding Window](https://github.com/Leoni71/Leon-s-Leetcode/blob/main/README.md#sliding-window)
 
 ### LinkedList
 | # | Title | Solutions |       Basic idea      |
@@ -35,6 +39,11 @@ This repo contains solutions to Leetcode problems I passed, in Python, Java, and
 | # | Title | Solutions |       Basic idea      |
 |---| ----- | --------- | --------------------- |
 | 3 |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](https://github.com/Leoni71/Leon-s-Leetcode/blob/main/python/3_Longest_Substring_Without_Repeating_Characters.py) <br> [Java](https://github.com/Leoni71/Leon-s-Leetcode/blob/main/java/3_Longest_Substring_Without_Repeating_Characters.java) <br> [C++](https://github.com/Leoni71/Leon-s-Leetcode/blob/main/C++/3_Longest_Substring_Without_Repeating_Characters.cpp) | Use Sliding window with two pointers and a hashmap/dictionary to go through the whole string |
+
+### Heap
+| # | Title | Solutions |       Basic idea      |
+|---| ----- | --------- | --------------------- |
+|253| [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Python](https://github.com/Leoni71/Leon-s-Leetcode/blob/main/python/253_Meeting_Rooms_II.py) | Use heap to store all the available end time of rooms and keep the smallest one at top for every next meeting. |
 
 ### Two Pointers
 | # | Title | Solutions |       Basic idea      |
