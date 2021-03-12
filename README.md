@@ -43,6 +43,7 @@ This repo contains solutions to Leetcode problems I passed, in Python, Java, and
 ### Heap
 | # | Title | Solutions |       Basic idea      |
 |---| ----- | --------- | --------------------- |
+|215| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](https://github.com/Leoni71/Leon-s-Leetcode/blob/main/python/215_Kth_Largest_Element_in_an_Array.py) | Utilize the feature of heap to find the first k elements; Use quick sort to find the pivot recursively  |
 |253| [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Python](https://github.com/Leoni71/Leon-s-Leetcode/blob/main/python/253_Meeting_Rooms_II.py) | Use heap to store all the available end time of rooms and keep the smallest one at top for every next meeting. |
 
 ### Two Pointers
